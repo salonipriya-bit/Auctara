@@ -268,6 +268,6 @@ Bid placement uses `SELECT ... FOR UPDATE` (row-level lock) inside a transaction
 
 ## License
 
-MIT
+This project is for educational purposes as part of a IIITA DBMS course.
 
 
